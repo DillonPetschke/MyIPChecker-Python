@@ -1,0 +1,7 @@
+# Example of correct format: 8.8.8.8
+# Do not user IP ranges, such as 192.168.10.0/24
+
+
+8.8.8.8
+9.9.9.9
+1.117.89.2
